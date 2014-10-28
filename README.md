@@ -14,3 +14,7 @@ choose good info from D2
 * 支持端比较丰富:
 1. npm install nunjucks
 2. [browser上](http://mozilla.github.io/nunjucks/files/nunjucks.js) 还有[slim版本](http://mozilla.github.io/nunjucks/files/nunjucks-slim.js)
+3. [grunt task](https://github.com/jlongster/grunt-nunjucks)
+4. 支持集成在express里面
+
+
