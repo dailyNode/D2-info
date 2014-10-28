@@ -17,4 +17,5 @@ choose good info from D2
 3. [grunt task](https://github.com/jlongster/grunt-nunjucks)
 4. 支持集成在express里面
 
-
+注释：
+In node, nunjucks loads templates from the filesystem by default, and in the browser loads them over HTTP.
